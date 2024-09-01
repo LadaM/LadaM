@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## About Me
 
 Hey there 👋, I'm Lada, a software engineer who sees coding as both an art and a tool. I'm committed to utilizing technical solutions to tackle practical problems such as process automation, enhancing efficiency, and improving user experience. After taking some time to focus on my mental health, I'm back in action.
-- 🔭 I'm currently involved in a reintegration project, which began with working as a waitress 🤵🏻‍♀️ followed by operations role at the office 🖇️📒📑🖥️ and now working on supporting development of tech solutions at [AbbVie](https://www.abbvie.ch) 
+- 🔭 I'm currently involved in a reintegration project, which began with working as a waitress 🤵🏻‍♀️ followed by operations role 🖇️📒 and now working on supporting development of tech solutions at [AbbVie](https://www.abbvie.ch) 
 - 🎓 I'm also pursuing my Master's degree in Software Engineering online, always eager to learn and grow in this ever-evolving field
 - When I'm not working or studying 👩🏻‍💻, you'll find me doing yoga 🪷🧘🏼‍♀️, walking about ⛰️🌅, and travelling near and sometimes far
 
