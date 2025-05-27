@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
-
 Hello 👋, I'm Lada, a software engineer who sees coding as both an art and a tool. I'm committed to utilizing technical solutions to tackle practical problems such as process automation, enhancing efficiency, and improving user experience. After taking some time to focus on my mental health, I'm back in action.
 - 🔭 I'm currently involved in a reintegration project, which began with working as a waitress 🤵🏻‍♀️ followed by operations role 🖇️ and now working on supporting development of tech solutions at [AbbVie](https://www.abbvie.ch) 
 - 🎓 I'm also pursuing my [Master's degree in Software Engineering](https://woolf.university/academics/degrees/1edda0c6-c535-48f3-93a3-44d78ad81d8c) online, always eager to learn and grow in this ever-evolving field
@@ -39,7 +38,7 @@ More than 4⃣ years of full-time experience working on:
 ... website for management of collateralized loans and official website for crypto-trading company
 
 ### Formal Education
-- 09.2006 - 06.2011 Bachelor of Arts in Sport Management and Sport Education [Kharkiv State Academy of Physical Culture] (https://en.wikipedia.org/wiki/Kharkiv_State_Academy_of_Physical_Culture) in Kharkiv, Ukraine 🇺🇦
+- 09.2006 - 06.2011 Bachelor of Arts in Sport Management and Sport Education [Kharkiv State Academy of Physical Culture](https://en.wikipedia.org/wiki/Kharkiv_State_Academy_of_Physical_Culture) in Kharkiv, Ukraine 🇺🇦
 - 08.2013 - 12.2017 Bachelor of Science in Business Informatics at the [University of Zurich](https://www.uzh.ch/de/studies/programs/bachelor/information_systems.html), Switzerland🇨🇭
 - 09.2023 - 12.2025 refreshing and deepening my knowledge with Master of Science in Computer Science at [GoIT Neoversity](https://goit.woolf.university/degrees/293c7cd0-5d86-4e48-b9c5-8e3430905f86)
 
